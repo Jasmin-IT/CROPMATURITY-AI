@@ -1,0 +1,11 @@
+﻿
+20 test images, conf 0.5
+ size  tomato check   mean ms   p95 ms    FPS
+  480           off       301      325    3.3
+  480            on       783     1460    1.3
+  640           off       462      486    2.2
+  640            on       986     1674    1.0
+  960           off      1084     1121    0.9
+  960            on      1617     2334    0.6
+ 1280           off      1846     1957    0.5
+ 1280            on      2424     3024    0.4

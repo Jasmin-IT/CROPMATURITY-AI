@@ -1,0 +1,82 @@
+﻿
+processing 1/60
+processing 2/60
+processing 3/60
+processing 4/60
+processing 5/60
+processing 6/60
+processing 7/60
+processing 8/60
+processing 9/60
+processing 10/60
+processing 11/60
+processing 12/60
+processing 13/60
+processing 14/60
+processing 15/60
+processing 16/60
+processing 17/60
+processing 18/60
+processing 19/60
+processing 20/60
+processing 21/60
+processing 22/60
+processing 23/60
+processing 24/60
+processing 25/60
+processing 26/60
+processing 27/60
+processing 28/60
+processing 29/60
+processing 30/60
+processing 31/60
+processing 32/60
+processing 33/60
+processing 34/60
+processing 35/60
+processing 36/60
+processing 37/60
+processing 38/60
+processing 39/60
+processing 40/60
+processing 41/60
+processing 42/60
+processing 43/60
+processing 44/60
+processing 45/60
+processing 46/60
+processing 47/60
+processing 48/60
+processing 49/60
+processing 50/60
+processing 51/60
+processing 52/60
+processing 53/60
+processing 54/60
+processing 55/60
+processing 56/60
+processing 57/60
+processing 58/60
+processing 59/60
+processing 60/60
+
+Split: test, 60 images, ground truth tomatoes: 543
+ conf  predicted  pred/true  avg error  within +-1  precision   recall     F1
+ 0.10        539       0.99       2.27         60%       0.83     0.82   0.82
+ 0.15        529       0.97       2.17         62%       0.84     0.82   0.83
+ 0.20        519       0.96       2.10         63%       0.85     0.81   0.83
+ 0.25        519       0.96       1.90         65%       0.86     0.83   0.84
+ 0.30        513       0.94       1.83         70%       0.87     0.82   0.85
+ 0.35        507       0.93       1.83         72%       0.88     0.82   0.85
+ 0.40        497       0.92       1.83         73%       0.89     0.81   0.85
+ 0.45        488       0.90       1.85         70%       0.90     0.81   0.85
+ 0.50        518       0.95       1.25         68%       0.91     0.87   0.89
+ 0.55        509       0.94       1.33         67%       0.91     0.85   0.88
+ 0.60        495       0.91       1.43         65%       0.92     0.84   0.88
+ 0.65        479       0.88       1.57         62%       0.94     0.83   0.88
+ 0.70        461       0.85       1.80         57%       0.95     0.81   0.87
+ 0.75        442       0.81       2.08         57%       0.96     0.78   0.86
+ 0.80        415       0.76       2.40         53%       0.97     0.74   0.84
+
+Lowest average count error: conf 0.5 (error 1.25 tomatoes per image)
+Best detection F1:          conf 0.5 (F1 0.89)

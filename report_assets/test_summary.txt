@@ -1,0 +1,110 @@
+﻿
+blurry: 1/20   
+blurry: 2/20   
+blurry: 3/20   
+blurry: 4/20   
+blurry: 5/20   
+blurry: 6/20   
+blurry: 7/20   
+blurry: 8/20   
+blurry: 9/20   
+blurry: 10/20   
+blurry: 11/20   
+blurry: 12/20   
+blurry: 13/20   
+blurry: 14/20   
+blurry: 15/20   
+blurry: 16/20   
+blurry: 17/20   
+blurry: 18/20   
+blurry: 19/20   
+blurry: 20/20   
+clear: 1/20   
+clear: 2/20   
+clear: 3/20   
+clear: 4/20   
+clear: 5/20   
+clear: 6/20   
+clear: 7/20   
+clear: 8/20   
+clear: 9/20   
+clear: 10/20   
+clear: 11/20   
+clear: 12/20   
+clear: 13/20   
+clear: 14/20   
+clear: 15/20   
+clear: 16/20   
+clear: 17/20   
+clear: 18/20   
+clear: 19/20   
+clear: 20/20   
+crowded: 1/20   
+crowded: 2/20   
+crowded: 3/20   
+crowded: 4/20   
+crowded: 5/20   
+crowded: 6/20   
+crowded: 7/20   
+crowded: 8/20   
+crowded: 9/20   
+crowded: 10/20   
+crowded: 11/20   
+crowded: 12/20   
+crowded: 13/20   
+crowded: 14/20   
+crowded: 15/20   
+crowded: 16/20   
+crowded: 17/20   
+crowded: 18/20   
+crowded: 19/20   
+crowded: 20/20   
+lowlight: 1/20   
+lowlight: 2/20   
+lowlight: 3/20   
+lowlight: 4/20   
+lowlight: 5/20   
+lowlight: 6/20   
+lowlight: 7/20   
+lowlight: 8/20   
+lowlight: 9/20   
+lowlight: 10/20   
+lowlight: 11/20   
+lowlight: 12/20   
+lowlight: 13/20   
+lowlight: 14/20   
+lowlight: 15/20   
+lowlight: 16/20   
+lowlight: 17/20   
+lowlight: 18/20   
+lowlight: 19/20   
+lowlight: 20/20   
+occluded: 1/20   
+occluded: 2/20   
+occluded: 3/20   
+occluded: 4/20   
+occluded: 5/20   
+occluded: 6/20   
+occluded: 7/20   
+occluded: 8/20   
+occluded: 9/20   
+occluded: 10/20   
+occluded: 11/20   
+occluded: 12/20   
+occluded: 13/20   
+occluded: 14/20   
+occluded: 15/20   
+occluded: 16/20   
+occluded: 17/20   
+occluded: 18/20   
+occluded: 19/20   
+occluded: 20/20   
+
+category      n   true   pred pred/true  avg err  within1  zero found  warned  avg ms
+blurry       20    169     52      0.31     6.15      20%         35%    100%    2315
+clear        20    169    162      0.96     0.85      85%          0%      0%    2337
+crowded      20    514    358      0.70     9.10      25%          5%      0%    3511
+lowlight     20    169     81      0.48     4.40      45%         30%    100%    2228
+occluded     20    169    154      0.91     1.05      75%          0%      0%    2297
+
+full results saved to report_assets/test_results.csv

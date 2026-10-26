@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Runtime databases and vector index
+/data/*.db
+/data/*.sqlite*
+/data/chroma/
+
+# Training datasets (large; not needed to run the app)
+/dataset_3class/
+/dataset_3class.zip
+/LaboroTomato/
+/negatives/
+
+# Local test output
+/test_out.jpg
