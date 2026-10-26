@@ -117,4 +117,4 @@ models/           Model weights (not stored in Git)
 ## Dataset and credits
 
 Trained on [LaboroTomato](https://github.com/laboroai/LaboroTomato). Built with [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics), [OpenAI CLIP](https://github.com/openai/CLIP), ChromaDB, FastAPI and React. Check each dataset and library license before redistributing.
-=======
+
