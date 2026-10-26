@@ -78,7 +78,7 @@ API docs: http://127.0.0.1:8000/docs
 **Frontend** (in a second terminal):
 
 ```bash
-cd dashboard
+cd frontend
 npm install
 npm run dev
 ```
