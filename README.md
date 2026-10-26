@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tomato Maturity Detection and Harvest Readiness AI
 
 An AI system that detects tomatoes in images, classifies their maturity, counts the crop, scores harvest readiness, and explains the result in plain language with a GenAI assistant grounded in the actual detections and an agricultural knowledge base.
@@ -117,3 +118,7 @@ models/           Model weights (not stored in Git)
 ## Dataset and credits
 
 Trained on [LaboroTomato](https://github.com/laboroai/LaboroTomato). Built with [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics), [OpenAI CLIP](https://github.com/openai/CLIP), ChromaDB, FastAPI and React. Check each dataset and library license before redistributing.
+=======
+# CROPMATURITY-AI
+An AI system that detects tomatoes in images, classifies their maturity, counts the crop, scores harvest readiness, and explains the result in plain language with a GenAI assistant grounded in the actual detections and an agricultural knowledge base.
+>>>>>>> 92c834b963bf88a15f08c21824accaca29b6fd21
