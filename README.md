@@ -2,6 +2,12 @@
 
 Crop Maturity AI analyses tomato photos, estimates the maturity of detected tomatoes, and reports crop counts and harvest readiness. The project includes a FastAPI backend, a React web dashboard, and a Flutter mobile app for Android and iOS.
 
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-segmentation-00A3E0)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
 > Harvest readiness is an AI-assisted indicator of the maturity mix in an image. It is not a guaranteed harvest date or a substitute for in-field judgment.
 
 ## Features
