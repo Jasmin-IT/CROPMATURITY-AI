@@ -138,10 +138,10 @@ The app's default API address, `http://10.0.2.2:8000`, is for an Android emulato
    cd mobile
    flutter pub get
    flutter devices
-   flutter run -d DEVICE_ID --dart-define=API_BASE=http://192.168.1.13:8000
+   flutter run -d DEVICE_ID --dart-define=API_BASE=http://"your ip address from the ip config":8000
    ```
 
-   Replace `DEVICE_ID` with the ID from `flutter devices` and `192.168.1.13` with the computer's current Wi-Fi IPv4 address. If Windows Firewall prompts you, allow Python on private networks.
+   Replace `DEVICE_ID` with the ID from `flutter devices` and  the computer's current Wi-Fi IPv4 address. If Windows Firewall prompts you, allow Python on private networks.
 
 The computer's Wi-Fi address can change, so update `API_BASE` when necessary. Keep the backend running while using the app. For additional mobile notes, see [mobile/README.md](mobile/README.md).
 
