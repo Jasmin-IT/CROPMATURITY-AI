@@ -1,0 +1,24 @@
+name: agri_harvest_mobile
+description: Flutter companion for AgriHarvest tomato maturity analysis.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  camera: ^0.11.0+2
+  share_plus: ^10.1.4
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/farm_hero.jpg
+    - assets/images/harvest_basket.jpg
+    - assets/images/tomato_stages.jpg
+    - assets/images/greenhouse_rows.jpg
